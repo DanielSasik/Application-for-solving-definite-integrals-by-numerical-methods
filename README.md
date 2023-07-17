@@ -24,7 +24,7 @@ The code isn't the most readible, it's something I am working on to get better, 
 | ------------- |:-------------:| :-----:|
 | R06     | App is programmed in Java   |    - |
 | R07     | IDE used for development of this app is Eclipse, for GUI toolkit Swing is used   |    - |
-| R08     | App is compatible with variable operating systems  |    Java is compatible with variable operating systems. If JRE - Java Runtime Enviroment is installed, the app is compatible. |
+| R08     | App is compatible with variable operating systems  |    Java is compatible with variable operating systems. If JRE - Java Runtime Enviroment is installed, the app will be able to run. |
 | R09     | App is available in Slovak language   |    - |
 
 ## Finding users
