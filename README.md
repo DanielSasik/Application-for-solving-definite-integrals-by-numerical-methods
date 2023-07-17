@@ -33,7 +33,7 @@ The code isn't the most readible, it's something I am working on to get better, 
 | ------------- |:-------------:| :-----:|
 | A01     | User of the application   | It's a simple app with just one user, that will use it for calculating and visualising definite integrals. |
 
-## Finding use case scenarios
+## Finding use cases
 
 | N        | Use case       | Additional information  | Req.  |
 | ------------- |:-------------:| :-----:| :-----:|
