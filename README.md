@@ -47,4 +47,4 @@ The code isn't the most readible, it's something I am working on to get better, 
 | UC08     | Plotting mathematical function | After pressing button "Vypočítaj" (Calculate) and all checks, the app will plot a mathematical function.  | R02, R03, R04 |
 | UC09     | Zoom in, Zoom out and Reset with buttons | With buttons there will be ability for the user to zoom in, zoom out or reset to original view of plotted graph.  | R04 |
 | UC10     | Zoom in and Reset with mouse | With the usage of mouse on drag the user will be able to zoom into certain area of the plotted graph or reset to original view of plotted graph.  | R04 |
-| UC11     | Showing menu | User will have the ability to use the menu called "Pomôcka" (help), and choose menu items "Používateľská príručka" (user guide) or "Vzťahy" (Equations).   | R05 |
+| UC11     | Showing menu | User will have the ability to use the menu called "Pomôcka" (Help), and choose menu items "Používateľská príručka" (User guide) or "Vzťahy" (Equations).   | R05 |
