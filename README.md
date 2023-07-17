@@ -1,7 +1,7 @@
 # Application-for-solving-definite-integrals-by-numerical-methods
 App designed to calculate definite integrals using numerical methods such as rectangle rule, trapezoid rule, Simpson's 1/3 rule, Simpson's 3/8 rule and Boole's rule. 
 
-Video showcase: https://youtu.be/DSgEPfT9O-I
+Video showcase of the app: https://youtu.be/DSgEPfT9O-I
 
 ## Short summary
 This application functions as a numerical calculator for definitive integrals. It has graphical user interface, made to be user-friendly, guide for the application is provided in the app. The app is in Slovak language. This app provides user with panel onto which set mathematical function is plotted. User can interact with set plotted graph. App detects if set mathematical functions is continuos or not. Also there are exceptions for error inputs such as wrong inputs, wrongly typed mathematical function, beggining of the interval being bigger than the end of the interval etc...
