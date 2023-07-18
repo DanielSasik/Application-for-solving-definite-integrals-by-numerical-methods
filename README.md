@@ -27,13 +27,13 @@ The code isn't the most readible, it's something I am working on to get better, 
 | R08     | App is compatible with variable operating systems  |    Java is compatible with variable operating systems. If JRE - Java Runtime Enviroment is installed, the app will be able to run. |
 | R09     | App is available in Slovak language   |    - |
 
-## Finding users
+## Users
 
 | N        | User       | Additional information  |
 | ------------- |:-------------:| :-----:|
 | A01     | User of the application   | It's a simple app with just one user, that will use it for calculating and visualising definite integrals. |
 
-## Finding use cases
+## Use cases
 
 | N        | Use case       | Additional information  | Req.  |
 | ------------- |:-------------:| :-----:| :-----:|
